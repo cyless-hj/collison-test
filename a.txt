@@ -1,4 +1,4 @@
 공통내용
-Local 작성
-Hub에
+Local 작성내용
+Hub에서 작성
 merge commit 연습
